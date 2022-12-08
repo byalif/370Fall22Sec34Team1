@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GLM</string>
+    <string name="signinTXT2"><u>Sign in</u></string>
+    <string name="register"><u>Create account</u></string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="item_type" />
+</resources>
